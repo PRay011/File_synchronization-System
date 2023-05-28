@@ -1,36 +1,42 @@
-.container{
-    height:90%;
+.container {
+    height: 90%;
     width: 96%;
     margin-left: 2%;
     margin-top: 1%;
 }
 
-.container .local{
+.container .local {
     padding-left: 1%;
     padding-right: 1%;
     padding-top: 1%;
-    height:90%;
+    height: 90%;
     width: 30%;
     margin-left: 7%;
-    border:1px solid black;
+    border: 1px solid black;
     float: left;
 }
 
-.container .remote{
+.container .remote {
     padding-left: 1%;
     padding-top: 1%;
     padding-right: 1%;
-    height:90%;
+    height: 90%;
     width: 30%;
     margin-left: 60%;
-    border:1px solid black
+    border: 1px solid black
 }
 
-.container .remote .files{
-   
-    height:40%;
+.container .remote .files {
+
+    height: 40%;
     width: 95%;
     margin-left: 2.5%;
     margin-top: 2%;
-    border:1px solid black
+    border: 1px solid black
+}
+
+.localFile {
+    margin-left: 2.5%;
+    margin-top: 2%;
+    border: 1px solid black
 }
