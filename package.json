@@ -10,7 +10,7 @@
   "dependencies": {
     "@element-plus/icons-vue": "^2.1.0",
     "axios": "^1.4.0",
-    "element-plus": "^2.3.5",
+    "element-plus": "^2.11.0",
     "vue": "^3.3.2",
     "vue-axios": "^3.5.2",
     "vue-router": "^4.2.1"
